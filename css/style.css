@@ -83,6 +83,7 @@ line-height: 120%;
     align-items: center;
     padding: 1.2rem;   
     margin: 0 auto;
+    width: 100%;
 }
 .banner h1{
     color: rgb(255, 255, 255);
@@ -109,6 +110,8 @@ margin-bottom: 1.75rem;
 .tittle-section{
     margin: 0 0 0 5rem;
     width: 510px;
+    
+    
    
 }
 .btn-primary1{
@@ -211,6 +214,7 @@ margin-bottom: 1.75rem;
     align-items: center; 
     gap: 40px;
     margin: 0 auto;
+    width: 100%;
     
 }
 .habit-tittle{

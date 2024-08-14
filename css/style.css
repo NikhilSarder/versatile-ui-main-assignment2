@@ -62,7 +62,7 @@ line-height: 120%;
     font-size: 2rem;
     display: none;
     position: absolute;
-    top: 13%;
+    top: 14%;
     right: 10%;
 }
 .home{
@@ -118,6 +118,7 @@ margin-bottom: 1.75rem;
     padding: 16px 40px 16px 40px;
     border-radius: 42px;
     background: rgb(230, 83, 60);
+    border: 1px solid rgb(230, 83, 60);
     color: rgb(255, 255, 255);
     font-family: Inter;
     font-size: 1.125rem;
@@ -279,8 +280,8 @@ font-weight: 600;
     flex-direction: row;
     justify-content: center;
     align-items: center;
-    background-color:rgb(55, 50, 50) ;
     border-radius: 1rem;
+    background: rgb(34, 34, 34);
 }
 .extra-text{
     width: 50%;
@@ -321,6 +322,7 @@ font-weight: 600;
 }
 /* bmi section st */
 .bmi-sec{
+    
     text-align: center;
     gap: 175px;
     margin: 0 auto;
@@ -342,7 +344,7 @@ font-weight: 600;
 }
 .bmi-calculator{
     
-    background-color:rgb(55, 50, 50) ;
+    background: rgb(34, 34, 34);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -460,6 +462,9 @@ td{
 }
 .team-img-card{
     position: relative;
+}
+.team-img-card h5{
+
 }
  .team-img-text{
     position: absolute;
